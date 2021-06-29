@@ -1,0 +1,35 @@
+body {
+            background-color:#e4f5f2;
+           
+           background: url(img.png);
+ }
+ 
+ h1 {
+    color:#12a4b8 ;
+    font-size: 100px;
+   
+ }
+ h3{
+     color: #12a4b8;
+     font-size: 30px;
+ }
+ p{
+     font-size: 25px;
+ }
+ li{
+     font-size: 17px;
+ }
+ hr{
+     border-color:rgb(84, 84, 88);
+     border-style:none;
+     border-top-style:dotted;
+     border-width: 5px;
+
+     height: 0%;
+     width: 20%;
+ }
+ img{
+     width: 300px ;
+     height: 300px;
+ }
+    
